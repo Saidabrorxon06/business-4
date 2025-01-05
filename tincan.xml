@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">AH3-Ethics and social responsibility</name>
+      <description lang="en-US">&lt;span style=&#34;font-size: 14px;&#34;&gt;To achieve high performance in almost any type of commercial activity, each participant in business communication must have a certain set of information, knowledge, ideas about the rules, forms, and methods of doing business.&lt;br&gt;&lt;br&gt;Knowledge of the principles of business ethics predetermines the establishment and development of relations between participants in business communication, largely determining their effectiveness. Whether these relationships will be successfully implemented in the interests of partners or will become meaningless, ineffective, or completely stop depending on an understanding of the laws and principles of business ethics.&lt;/span&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;The international business community and the international business community value the positive opinion of partners, which opens up broad prospects for communication participants for establishing new economic ties.&lt;br&gt;&lt;br&gt;Business ethics is based on the rules and norms of behavior developed by more than one generation of people around the world, which help to strengthen mutual trust and exclude the &amp;quot;use&amp;quot; of a business partner.&lt;/span&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Mastering the science of business communications, including the norms of behavior, etiquette, as well as business contacts, it is necessary to take into account that business is the art of establishing and maintaining civilized relationships with people equal to itself, leading, managing with the help of power and responsibility, overcoming contradictions, resolving conflicts, take the role of a mediator, exchange information, be able to process it and effectively convert it in favor of a certain social group. And therefore, without developing the rules of the game, taking into account the interests of various categories of participants in business communication, it is impossible to effectively move towards the goal.&lt;/span&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/YSxEi26VgKycdu8cybVN703SZuw17BCf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Philosophical Principles of Business Ethics/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/b9rcsjbE6MM0NNCC2Bvy-onRRhxEom4G" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Factors contributing to ethical concerns/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/_C9RfDxbI0eKKg-v6sjXuZnUHjFLiqFj" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">An unethical organizational culture/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/HWOkEGU1nOAvxm3L0H8YDExDHL_Da596" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Ethical Decision-Making Guide/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/VXyrCYH6D-NYi_6ugZ1QzHgW6FETXazF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fundamental concepts of social responsibility/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/O7WFPz9royhYAH6R7aGe9QGmJJECNKn7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Official mechanisms for monitoring ethics/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/S6dV5TkaEF-9AnFlNZs_v-LHvPUjTX_l" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Communication on Ethics and Social Responsibility/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/osWRUxpZ-WxceaG0gB6NeaFtYoUcifCh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Leadership through personal example and ethical role models/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://NkOgAoa793iJdwNuhQQmJnVEhCpAyC9z_rise/d59Sb2SjdgOcfArMeyX_la4I1_ZfrD4t" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Confrontation or Synergy?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
